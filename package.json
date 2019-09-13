@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "ez-otp-input",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A basic OTP input with minimal configurations",
   "main": "./dist/index.js",
   "scripts": {
