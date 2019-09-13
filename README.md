@@ -32,7 +32,7 @@ export default {
 ### Props
 | Props | Type | Default | Description |
 | ----- | ---- | ------- | ----------- |
-| `value` | `String` | | use `v-model` to automatically set your local value |
+| `value` | `String` | &nbsp; | use `v-model` to automatically set your local value |
 | `length` | `Number` | 4 | sets the length of the OTP |
 | `disable` | `Boolean` | false | disables the input |
 | `placeholder` | `String` | `--` | placeholder for each character input |
