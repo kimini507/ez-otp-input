@@ -13,7 +13,9 @@
   },
   "keywords": [
     "vue",
-    "otp"
+    "otp",
+    "ez-otp",
+    "ez"
   ],
   "author": "Kim Joshua C. Advincula",
   "license": "MIT",
