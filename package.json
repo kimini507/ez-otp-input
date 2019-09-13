@@ -1,0 +1,23 @@
+{
+  "name": "ez-otp-input",
+  "version": "0.0.1",
+  "description": "A basic OTP input with minimal configurations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kimini507/ez-otp-input.git"
+  },
+  "keywords": [
+    "vue",
+    "otp"
+  ],
+  "author": "Kim Joshua C. Advincula",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kimini507/ez-otp-input/issues"
+  },
+  "homepage": "https://github.com/kimini507/ez-otp-input#readme"
+}
