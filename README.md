@@ -37,3 +37,8 @@ export default {
 | `disable` | `Boolean` | false | disables the input |
 | `placeholder` | `String` | `--` | placeholder for each character input |
 | `autoSubmit` | `Boolean` | true | flag to trigger `@filled` event when model is equal to `length` |
+
+### Events
+| Event | Param | Description |
+| ----- | ----- | ----------- |
+| `filled` | &nbsp; | triggered when all input fields are filled up. Can be enabled/disabled via the `autoSubmit` prop |

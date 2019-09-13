@@ -1,5 +1,5 @@
 /*!
- * ez-otp-input v0.0.4
+ * ez-otp-input v0.0.6
  * (c) Kim Joshua C. Advincula
  * Released under the MIT License.
  */
